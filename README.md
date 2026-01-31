@@ -1,7 +1,7 @@
 <div id="top" align="center">
 
-# 🛡️ LX-TITAN SECURITY CORE v1.0
-### ⚡ The Ultimate Level 10 Armor for High-Performance Applications ⚡
+# 🛡️ LX-TITAN: THE IRON SHIELD SDK v1.0
+### ⚡ The Elite Level 10 Security Framework for Android & Linux ⚡
 
 <br>
 
@@ -12,19 +12,12 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td><a href="#about-section"><b>📖 About</b></a></td>
-    <td><a href="#features-section"><b>⚡ Features</b></a></td>
-    <td><a href="#install-section"><b>📥 Install</b></a></td>
-    <td><a href="#keygen-section"><b>🔑 Get Key</b></a></td>
-    <td><a href="#structure-section"><b>📂 Structure</b></a></td>
-  </tr>
-</table>
+| [📖 About SDK](#about-section) | [📥 Download Zone](#download-section) | [🔑 Identity Key](#keygen-section) | [📂 Structure](#structure-section) |
+| :---: | :---: | :---: | :---: |
 
 <br>
 
-> **"Identity is your shield. Prefix 'LX-' is your signature. Start securing your code today."**
+> **"Build safely, protect deeply. Your code identity starts with LX-."**
 
 </div>
 
@@ -32,35 +25,21 @@
 
 <h2 id="about-section">📖 1. About the LX-TITAN SDK</h2>
 
-**LX-TITAN** is not just a library; it is a **digital fortress**. Designed for elite developers who demand military-grade security, this SDK provides an impenetrable shield against reverse engineering, debugging, and unauthorized tampering.
+**LX-TITAN** هو نظام حماية متطور مصمم خصيصاً لحماية البرمجيات من الهندسة العكسية. يعتمد النظام على تقنية **RAM-Decryption** التي تمنع ظهور الكود المصدري في ذاكرة التخزين، مما يجعله منيعاً أمام أدوات الفحص التقليدية.
 
-Our core engine uses **Dynamic RAM Decryption**, meaning your protected code never exists on the device storage in its original form. Whether you are building for **Termux**, **Linux**, or **Android**, LX-TITAN adapts to the environment and deploys its defense layers instantly.
-
----
-
-<h2 id="features-section">⚡ 2. Professional Security Features</h2>
-
-### 🛡️ Layer 1: Anti-Reverse Engineering
-* **Binary Obfuscation:** Completely scrambles machine code logic to confuse decompilers like IDA Pro.
-* **Anti-Debug Core:** Actively monitors and kills `GDB`, `LLDB`, and `JDB` sessions.
-* **Memory Shield:** Real-time protection against memory dumping tools like `Frida` or `GameGuardian`.
-
-### 🚫 Layer 2: Environment Integrity
-* **Root Detection:** Deep scan for SuperUser binaries and system tampering.
-* **VM/Emulator Shield:** Detects virtual environments (Bluestacks, Nox, LDPlayer) and prevents execution.
-* **Magisk Shield:** Specialized detection for advanced root-hiding modules.
-
-### 🔐 Layer 3: Identity & Authentication
-* **LX-Branding:** Every key must follow the `LX-` prefix protocol.
-* **Random Plan Logic:** The system assigns a **VIP**, **ULTRA**, or **PREMIUM** tier to each generated key.
+* **الحماية العسكرية:** تشفير الطبقة العاشرة (Level 10).
+* **كشف التلاعب:** كشف فوري لأدوات `Frida` و `IDA Pro`.
+* **نظام الهوية:** تخصيص مفتاح فريد يبدأ بـ `LX-` لكل مستخدم.
 
 <p align="right"><a href="#top">⬆️ Back to Top</a></p>
 
 ---
 
-<h2 id="install-section">📥 3. Real-Time Installation (Termux Command)</h2>
+<h2 id="download-section">📥 2. Download Center (طرق التحميل الحقيقية)</h2>
 
-Copy and paste the command below. It is a **fixed, clean, and verified** command that installs all dependencies and pulls the project correctly:
+لقد وفرنا لك 3 طرق مختلفة للتحميل لضمان وصول المكتبة إليك في أي بيئة:
 
+### 📱 أولاً: التحميل عبر Termux / Linux (الخيار الأسرع)
+انسخ هذا الأمر والصقه في التيرمينال للتحميل والتثبيت المباشر:
 ```bash
 pkg install git wget zip -y && git clone [https://github.com/YOUSSEFJEDIDI89/LX-GIT.git](https://github.com/YOUSSEFJEDIDI89/LX-GIT.git) && cd LX-GIT && chmod +x scripts/*.sh && bash scripts/install.sh
