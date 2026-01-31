@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/⚡%20FEATURES-ff9800?style=for-the-badge&logo=thunderbird&logoColor=white">
 </a>
 &nbsp;
+<a href="#-generate-api-key">
+  <img src="https://img.shields.io/badge/🔑%20GENERATE%20KEY-E91E63?style=for-the-badge&logo=keycdn&logoColor=white">
+</a>
+&nbsp;
 <a href="#-download-center-get-the-full-project">
   <img src="https://img.shields.io/badge/📥%20DOWNLOAD-2ea44f?style=for-the-badge&logo=install&logoColor=white">
 </a>
@@ -20,21 +24,36 @@
 <a href="#-project-structure">
   <img src="https://img.shields.io/badge/📂%20STRUCTURE-007bff?style=for-the-badge&logo=open-access&logoColor=white">
 </a>
-&nbsp;
-<a href="#-installation--usage">
-  <img src="https://img.shields.io/badge/🛠️%20INSTALL-6c757d?style=for-the-badge&logo=settings&logoColor=white">
-</a>
 
 <br><br>
 
-> **"Security is not a feature; it's the foundation. LX-TITAN is the bedrock of your protection."**
+> **"Your protection begins with a unique identity. Generate your LX-Key below."**
 
 </div>
 
 ---
 
-## 🦅 Introduction (The Legend)
-**LX-TITAN** is a military-grade security framework designed to turn your software into a **digital fortress**. Unlike traditional libraries, LX-TITAN operates with an **Active Defense Engine** that monitors memory, detects threats in real-time, and neutralizes reverse engineering attempts before they even start.
+<h2 id="-generate-api-key">🔑 Section: Dynamic Key Generation</h2>
+
+To activate the **Level 10 Shield**, every developer needs a unique **Master Key**. This key binds the library to your specific environment.
+
+| Action | Description | Process |
+| :--- | :--- | :--- |
+| **Request Key** | Generate a unique 16-digit Auth Key | **Automatic** |
+| **Binding** | Sync key with your `liblx_titan.so` | **Real-time** |
+
+<div align="center">
+  <br>
+  <a href="https://github.com/YOUSSEFJEDIDI89/LX-GIT/issues/new?title=Request+New+API+Key&body=Please+generate+a+secure+key+for+my+device.">
+    <img src="https://img.shields.io/badge/🚀%20GENERATE%20MY%20UNIQUE%20KEY%20NOW-E91E63?style=for-the-badge&logo=speedtest&logoColor=white" height="50">
+  </a>
+  <br>
+  <p><i>Click the button above to request your unique encryption key via GitHub Actions.</i></p>
+</div>
+
+<div align="right">
+    <a href="#top">⬆️ Back to Top</a>
+</div>
 
 ---
 
@@ -42,11 +61,9 @@
 
 | 🛡️ Feature | 📝 Description |
 | :--- | :--- |
-| **Level 10 Encryption** | Advanced binary obfuscation that decrypts only in RAM, leaving no trace on disk. |
-| **🚫 Anti-Tamper Core** | Instantly detects `Frida`, `GameGuardian`, and `IDA Pro` and terminates the session. |
-| **🔐 Secure Linking** | A universal `.so` architecture that works across all Linux-based platforms. |
-| **☁️ Cloud Verification** | Real-time API key validation to prevent unauthorized usage. |
-| **📱 Root & VM Shield** | Blocks execution on rooted devices or virtual machines (Emulators). |
+| **Level 10 Encryption** | Advanced binary obfuscation that decrypts only in RAM. |
+| **🚫 Anti-Tamper Core** | Instantly detects `Frida`, `GDB`, and `IDA Pro`. |
+| **🔐 Secure Linking** | A universal `.so` architecture for all Linux platforms. |
 
 <div align="right">
     <a href="#top">⬆️ Back to Top</a>
@@ -56,14 +73,10 @@
 
 <h2 id="-download-center-get-the-full-project">📥 Download Center (Get The Full Project)</h2>
 
-We have packaged the entire SDK (including the binary core, scripts, and API keys) into a single optimized archive. 
-
 <div align="center">
   <h3>🚀 DOWNLOAD FULL REPOSITORY (ZIP)</h3>
-  <p><i>Click the button below to download the latest version of LX-TITAN assets.</i></p>
-  
   <a href="https://github.com/YOUSSEFJEDIDI89/LX-GIT/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/⬇️%20CLICK%20TO%20DOWNLOAD%20.ZIP-0052cc?style=for-the-badge&logo=dropbox&logoColor=white&color=2ea44f" alt="Download ZIP" height="70">
+    <img src="https://img.shields.io/badge/⬇️%20CLICK%20TO%20DOWNLOAD%20.ZIP-2ea44f?style=for-the-badge&logo=dropbox&logoColor=white" alt="Download ZIP" height="60">
   </a>
 </div>
 
@@ -75,25 +88,15 @@ We have packaged the entire SDK (including the binary core, scripts, and API key
 
 <h2 id="-project-structure">📂 Project Structure</h2>
 
-Once you unzip the file, you will find a professional SDK directory structure:
-
-* **`📁 bin/`** ➤ Contains the execution engine (`run-@lx`).
-* **`📁 lib/`** ➤ The heart of the system; the encrypted `.so` library.
-* **`📁 include/`** ➤ Header files (`lx-titan.h`) for C++ developers.
-* **`📁 scripts/`** ➤ Automated installation scripts (`install.sh`).
-* **`📁 API_KEY/`** ➤ Your unique secure credentials.
-
-<div align="right">
-    <a href="#top">⬆️ Back to Top</a>
-</div>
+* **`📁 API_KEY/`** ➤ **[VITAL]** Where your generated `master_key.txt` is stored.
+* **`📁 bin/`** ➤ Execution engine (`run-@lx`).
+* **`📁 lib/`** ➤ The encrypted `.so` library.
 
 ---
 
-<h2 id="-installation--usage">🛠️ Installation & Usage</h2>
-
-### Step 1: Download & Extract
-Download the ZIP file from the button above, then extract it in your terminal:
-
-```bash
-unzip LX-GIT-main.zip
-cd LX-GIT-main
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/Protected%20By-LX%20TITAN%20AI-critical?style=flat-square&logo=shield&logoColor=white">
+  <br>
+  <b>Copyright © 2026 YOUSSEFJEDIDI89. All Rights Reserved.</b>
+</div>
