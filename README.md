@@ -23,4 +23,4 @@
 To install the **LX-TITAN** environment without any errors, copy and paste this command. It will automatically install dependencies and clone the library:
 
 ```bash
-pkg install git wget zip -y && git clone [https://github.com/YOUSSEFJEDIDI89/LX-GIT.git](https://github.com/YOUSSEFJEDIDI89/LX-GIT.git) && cd LX-GIT && chmod +x scripts/*.sh && bash scripts/install.sh
+pkg install git wget zip -y && git clone https://github.com/YOUSSEFJEDIDI89/LX-GIT.git && cd LX-GIT && chmod +x scripts/*.sh && bash scripts/install.sh
