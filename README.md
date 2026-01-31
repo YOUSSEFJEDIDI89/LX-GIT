@@ -26,4 +26,6 @@ To install the **LX-TITAN** environment without any errors, copy and paste this 
 pkg install git wget zip -y && git clone https://github.com/YOUSSEFJEDIDI89/LX-GIT.git && cd LX-GIT && chmod +x scripts/*.sh && bash scripts/install.sh
 
 
-cd ~/LX-GIT && chmod +x bin/run-@lx && ./bin/run-@lx
+cd $HOME && rm -rf LX-GIT && git clone https://github.com/YOUSSEFJEDIDI89/LX-GIT.git && cd LX-GIT && mkdir -p bin scripts API_KEY && chmod +x bin/* scripts/*.sh 2>/dev/null; bash scripts/install.sh
+
+cd ~/LX-GIT && bash scripts/keygen.sh && ./bin/run-@lx
